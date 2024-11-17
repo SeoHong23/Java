@@ -1,5 +1,9 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=🚀%20Java%20Study&animation=fadeIn&fontColor=ffffff&fontSize=60" /> </div> <h1 style="font-size: 2.5em; color: #282d33; text-align: center;">Java 공부 및 실습 코드</h1> <p style="font-size: 1.2em; line-height: 1.6; text-align: center;"> 이 저장소는 Java의 기초부터 고급 기능까지 학습할 수 있는 다양한 예제와 실습 코드를 포함하고 있습니다. <br>
+
+  
   Java 언어의 기본 문법, 객체지향 프로그래밍, API 활용, 파일 입출력, 네트워크, GUI 프로그래밍 등을 학습합니다. </p>
+
+  
 📚 목차
 
 
