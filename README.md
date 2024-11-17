@@ -61,15 +61,15 @@
 
 <ul style="font-size: 1.2em; line-height: 1.6;">
   
-  <li><b>Java:</b> 객체지향 프로그래밍 언어</li>
+  <li><b>Java:</b> 객체지향 프로그래밍 언어</li><br>
   
-  <li><b>JDK:</b> Java Development Kit</li> 
+  <li><b>JDK:</b> Java Development Kit</li> <br>
   
-  <li><b>JUnit:</b> Java 단위 테스트 라이브러리</li>
+  <li><b>JUnit:</b> Java 단위 테스트 라이브러리</li><br>
   
-  <li><b>Swing:</b> Java GUI 애플리케이션 개발 도구</li>
+  <li><b>Swing:</b> Java GUI 애플리케이션 개발 도구</li><br>
   
-  <li><b>JDBC:</b> Java Database Connectivity</li>
+  <li><b>JDBC:</b> Java Database Connectivity</li><br>
   
   </ul>
 
@@ -77,11 +77,11 @@
   
   📄 자료 및 문제</h2> <ul style="font-size: 1.2em; line-height: 1.6;"> 
   
-  <li><b>java_study_pdf:</b> Java 공부 pdf 자료</li>
+  <li><b>java_study_pdf:</b> Java 공부 pdf 자료</li><br>
   
-  <li><b>JavaExam:</b> Java 실습 연습문제 모음</li>
+  <li><b>JavaExam:</b> Java 실습 연습문제 모음</li><br>
   
-  <li><b>JavaFinalExam:</b> Java 실습 최종 연습문제 모음</li>
+  <li><b>JavaFinalExam:</b> Java 실습 최종 연습문제 모음</li><br>
   
   </ul>
 <h2 style="font-size: 2em; border-bottom: 2px solid #d8dee4; color: #282d33;">
