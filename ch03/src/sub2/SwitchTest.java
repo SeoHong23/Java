@@ -29,7 +29,9 @@ public class SwitchTest {
 				System.out.println("numner는 홀수");
 				break;
 		}
-	}	
+	}
+}
+
 			
 
 		

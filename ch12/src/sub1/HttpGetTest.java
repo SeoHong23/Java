@@ -6,7 +6,6 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-import javax.smartcardio.ResponseAPDU;
 
 /* 날짜 : 2024/07/24
  * 이름 : 박서홍
