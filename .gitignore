@@ -5,5 +5,7 @@
 
 # Eclipse 관련 파일 무시
 *.launch
+
+# 빌드 결과물 무시 (컴파일된 파일들)
 bin/
 *.class
