@@ -1,11 +1,12 @@
-# Eclipse 설정 파일 무시
+# Eclipse 설정 파일 무시하기
 .metadata/
 .metadata/**
 .metadata/.lock
 
-# Eclipse 관련 파일 무시
-*.launch
-
-# 빌드 결과물 무시 (컴파일된 파일들)
+# 빌드 폴더 무시하기 (컴파일 결과물)
 bin/
 *.class
+
+# Eclipse 설정 파일 무시하기
+*.launch
+*.log
