@@ -1,3 +1,9 @@
+# Eclipse 설정 파일 무시
 .metadata/
+.metadata/**
+.metadata/.lock
 
-*.launch bin/ *.class 
+# Eclipse 관련 파일 무시
+*.launch
+bin/
+*.class
