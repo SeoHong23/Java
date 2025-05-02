@@ -19,9 +19,9 @@ public class D extends A{
 	
 	// 메소드 선언    직접 객체 생성해서 사용하는것은 안됨
 	public void method2() {
-		A a = new A();
-		a.field = "value";
-		a.method();
+//		A a = new A();
+//		a.field = "value";
+//		a.method();
 	}
 
 }
