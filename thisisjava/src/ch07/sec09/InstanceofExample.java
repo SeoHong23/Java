@@ -33,7 +33,7 @@ public class InstanceofExample {
 		
 		System.out.println();
 		
-		// Student 객체르 매개값으로 제공하고 personInfo() 메소드 호출
+		// Student 객체를 매개값으로 제공하고 personInfo() 메소드 호출
 		Person p2 = new Student("김길동", 10);
 		personInfo(p2);
 		}
