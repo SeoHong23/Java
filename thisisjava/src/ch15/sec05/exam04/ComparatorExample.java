@@ -6,7 +6,7 @@ public class ComparatorExample {
 	public static void main(String[] args) {
 		
 		// 비교자를 제공한 TreeSet 컬렉션 생성
-		TreeSet<Fruit> treeSet = bew TreeSet<Fruit>(new FruitComparator());
+		TreeSet<Fruit> treeSet = new TreeSet<Fruit>(new FruitComparator());
 		
 		// 객체 저장
 		treeSet.add(new Fruit("포도", 3000));
