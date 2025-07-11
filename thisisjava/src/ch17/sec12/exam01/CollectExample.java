@@ -38,6 +38,6 @@ public class CollectExample {
 							)
 						);
 		
-		System.out.println();
+		System.out.println(map);
 	}
 }
