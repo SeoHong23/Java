@@ -21,7 +21,7 @@ public class ProcedureCallExample {
 					);
 			
 			// 매개변수화된 호출문 작성과 CallableStatement 얻기
-			String sql = "{call user_create(?, ?, ?, ?, ?)}";
+			String sql = "{call user_create(?, ?, ?, ?, ?, ?)}";
 			CallableStatement cstmt = conn.prepareCall(sql);
 			
 			//? 값 지정 및 리턴 타입 지정
